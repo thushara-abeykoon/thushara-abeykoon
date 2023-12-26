@@ -67,9 +67,6 @@ I love the entire process of developing creative websites. I love the challenge 
 
 <br>
 
-
-![snake gif](https://github.com/thushara-abeykoon/thushara-abeykoon/blob/output/github-contribution-grid-snake-dark.svg)
-
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+Enjoy+Your+Day+~!;" alt="mystreak"/>
 </p>
